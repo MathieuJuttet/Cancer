@@ -9,7 +9,7 @@ dependencies:
   - matplotlib
   - seaborn
   - jupyter
-  - geopandas
-  - folium
+  - requests
+  - scipy
   - pip:
       - ramp-workflow
