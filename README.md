@@ -7,3 +7,5 @@ Cancer is one of the most documented disease. This Ramp.studio challenge aims at
 
 ## Get started
 The starting kit notebook can be found [here](https://github.com/MathieuJuttet/Cancer/blob/main/Starting_kit.ipynb). It provides detailed information on the project and explanations on the data. Make sure to follow carefully the instructions to download properly the data.
+
+Please run prepare_data.py before using ramp.
